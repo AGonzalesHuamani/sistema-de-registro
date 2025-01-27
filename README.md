@@ -6,3 +6,5 @@ Esta proyecto es  para reforzar mi aprendizaje en Github
 Para ejecutar el sistema, debes poner:
 
 ```npm install react``` 
+
+Sistema de registro 2
